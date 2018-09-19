@@ -1,0 +1,7 @@
+1. Resolve terms like "drake" when you are provided a list of potentials, add a parser for this list and bias toward
+    People -> Artist
+2. Add some sort of progress bar
+3. improve infobox parser
+4. use one source to confirm another
+5. add a parser for album names
+6
